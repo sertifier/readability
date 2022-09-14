@@ -809,7 +809,7 @@ Readability.prototype = {
       });
     });
 
-    // this._clean(articleContent, "iframe");
+    this._clean(articleContent, "iframe");
     this._clean(articleContent, "input");
     this._clean(articleContent, "textarea");
     this._clean(articleContent, "select");
