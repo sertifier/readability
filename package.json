@@ -1,5 +1,5 @@
 {
-  "name": "@mozilla/readability",
+  "name": "custom-readability",
   "version": "0.4.2",
   "description": "A standalone version of the readability library used for Firefox Reader View.",
   "main": "index.js",
@@ -12,13 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/readability"
+    "url": "https://github.com/sertifier/readability"
   },
   "author": "",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/mozilla/readability/issues"
-  },
   "engines": {
     "node": ">=10.0.0"
   },
